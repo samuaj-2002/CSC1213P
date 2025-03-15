@@ -1,1 +1,14 @@
-
+Date:15/0/2025
+Practical number:05
+Problem specification:
+Implementation: Display student information
+class StudentDetails{
+	public static void main(String args[]){
+		System.out.println("First Name : Samudi \nLast Name : Adhikari\nAddress : New Town,Ampara ");
+	}
+}
+Output :
+First Name : Samudi
+Last Name : Adhikari
+Address : New Town,Ampara
+Conclusion:Learned how to break a line of students details
