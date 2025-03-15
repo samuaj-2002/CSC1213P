@@ -1,1 +1,14 @@
-
+Date:15/03/2025
+Practical number:01
+Problem Specification:Print the statements "My First Programme in Java" and "Hello Java Developers!!!"
+Implementation: class FirstJavaProgramme{
+	public static void main(String[] args)
+	{
+		System.out.println("My First Programme in Java");
+		System.out.println("Hello Java Developers");
+	}
+}
+Output :
+First Programme in Java
+Hello Java Developers!!!
+Conclusion : Learned about the basic structure of a Java Programm 
