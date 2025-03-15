@@ -1,1 +1,27 @@
+Date:15/03/2025
+Practical number:07
+Problem specification:Write a java program to perform and display the results of basic arithmetic operations
+Implementation:
 
+class Ex07{
+	public static void main(String[] args){
+		
+		int x=10;
+		int y=5;
+		
+		System.out.println("Addition is :"+(x+y));
+		System.out.println("Substraction is :"+(x-y));
+		System.out.println("Multiplication is :"+(x*y));
+		System.out.println("Division is :"+(x/y));
+		System.out.println("Modulus is :"+(x%y));
+		
+	}
+}
+Output:
+Addition is :15
+Substraction is :5
+Multiplication is :50
+Division is :2
+Modulus is :0
+
+Conclusion:Learned how to display and perform of these operartions on two integers.
