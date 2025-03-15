@@ -1,1 +1,49 @@
-
+Date:15/0/2025
+Practical number:03
+Problem Specification:Display primitive data types in java and print it
+Implementation:
+class Ex03{
+	public static void main(String args[]){
+		boolean isBool=true;
+		System.out.println("Boolean :"+isBool);
+		
+		byte ByteVal=120;
+        System.out.println("Byte :"+ByteVal);
+		
+		int IntVal=1;
+		System.out.println("Integer :"+IntVal);
+		
+		short ShortVal =14569;
+		System.out.println("Short :"+ShortVal);
+		
+		
+		long LongVal=1000;
+		System.out.println("Long :"+LongVal);
+		
+		float FloatVal=19.56f;
+		System.out.println("Float :"+FloatVal);
+		
+		double DoubleVal=169.456;
+		System.out.println("Double :"+DoubleVal);
+		
+		char CharVal='a';
+		System.out.println("Char :"+CharVal);
+		
+		char CharVall='\u0064';
+		System.out.println("Char :"+CharVall);
+		
+	}
+}
+		
+Output:
+Boolean :true
+Byte :120
+Integer :1
+Short :14569
+Long :1000
+Float :19.56
+Double :169.456
+Char :a
+Char :d
+Conclusion :
+Demonstrates how to declare and intialize various primitive data types
