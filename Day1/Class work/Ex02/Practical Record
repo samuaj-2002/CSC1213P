@@ -1,1 +1,37 @@
+Date:15/03/2025
+Practical number:02
+Problem Specification : Get the data using variables and print it
+Implementation:
+class Ex02{
+	public static void main(String[] args)
+	{
+		String fac="FAS";
+		int n=3;
+		double p=10.5;
+		int m=5;
+		char w1='&';
+		boolean isTH=true;
+		System.out.println(fac);
+		System.out.println(n);
+		System.out.println(p);
+		System.out.println(m);
+		System.out.println(w1);
+		System.out.println(isTH);
+		
+		System.out.println("My Faculty is"+fac);
+		System.out.println("The Result1 is"+(n+m));
+		System.out.println("The Result2 is"+(p+m));
+	}
+}
+Output:
+FAS
+3
+10.5
+5
+&
+true
+My Faculty isFAS
+The result1 is8
+The result2 is15.5
+Conclusion: Learned about the datatypes
 
